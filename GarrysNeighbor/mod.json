@@ -1,0 +1,25 @@
+{
+  "name": "Garry's Neighbor",
+  "id": "GarrysNeighbor",
+  "version": "1.0.0",
+  "hostGame": "Hello Neighbor",
+  "hostPlatform": "Windows / Steam",
+  "steamAppId": 521890,
+  "guestGame": "Garry's Mod",
+  "guestRole": "sandbox inspiration",
+  "engineRoute": "UE4SS Lua",
+  "multiplayer": false,
+  "features": [
+    "spawn cube",
+    "spawn sphere",
+    "spawn cylinder",
+    "grab and release props",
+    "move grabbed props",
+    "rotate grabbed props",
+    "delete props",
+    "clear all props",
+    "sandbox toggle"
+  ],
+  "redistributesHostGameFiles": false,
+  "redistributesGuestGameFiles": false
+}

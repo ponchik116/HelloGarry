@@ -1,0 +1,8 @@
+STATIC CHECK: PASS
+- ZIP structure created.
+- Lua script syntax structure reviewed manually.
+- Installer/uninstaller PowerShell files created.
+- No Hello Neighbor or Garry's Mod retail files bundled.
+
+RUNTIME CHECK: NOT PERFORMED
+The current build environment does not have the user's installed Windows copy of Hello Neighbor available for launch.
